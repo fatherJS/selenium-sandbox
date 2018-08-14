@@ -8,3 +8,5 @@ To run selenium JS examples from this repo, you must:
 3) Download browser driver (e.g. for Chrome - chromedriver_win32.zip)
 
 Good luck!
+
+Email me if you need some help: SOOLTECH@gmail.com
